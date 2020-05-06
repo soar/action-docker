@@ -1,0 +1,4 @@
+name: "Docker"
+description: "lifecycle for a container: build, test, tag and push"
+author: "Aleksey @soar Smyrnov"
+
